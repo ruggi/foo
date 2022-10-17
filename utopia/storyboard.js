@@ -2,32 +2,32 @@ import * as React from 'react'
 import { Scene, Storyboard } from 'utopia-api'
 import { App } from '/src/app.js'
 import { Playground } from '/src/playground.js'
+import { View } from 'utopia-api'
 
 export var storyboard = (
-  <Storyboard>
-    <Scene
+  <Storyboard data-uid='0cd'>
+    <View
       style={{
-        width: 700,
-        height: 759,
+        backgroundColor: '#0091FFAA',
         position: 'absolute',
-        left: 212,
-        top: 128,
+        left: -51,
+        top: 72,
+        width: 269,
+        height: 355,
       }}
-      data-label='Playground'
+      data-uid='48d'
     >
-      <Playground style={{}} />
-    </Scene>
-    <Scene
-      style={{
-        width: 744,
-        height: 1133,
-        position: 'absolute',
-        left: 1036,
-        top: 128,
-      }}
-      data-label='My App'
-    >
-      <App style={{}} />
-    </Scene>
+      <View
+        style={{
+          backgroundColor: '#DDFF00AB',
+          position: 'absolute',
+          left: 99,
+          top: 132,
+          width: 71,
+          height: 91,
+        }}
+        data-uid='480'
+      />
+    </View>
   </Storyboard>
 )
