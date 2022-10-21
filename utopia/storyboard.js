@@ -28,6 +28,28 @@ export var storyboard = (
         }}
         data-uid='480'
       />
+      <View
+        style={{
+          backgroundColor: '#FF0000AB',
+          position: 'absolute',
+          left: 53,
+          top: 177.5,
+          width: 71,
+          height: 91,
+        }}
+        data-uid='168'
+      />
+      <View
+        style={{
+          backgroundColor: '#FF0000AB',
+          position: 'absolute',
+          left: 53,
+          top: 65.5,
+          width: 71,
+          height: 91,
+        }}
+        data-uid='750'
+      />
     </View>
   </Storyboard>
 )
