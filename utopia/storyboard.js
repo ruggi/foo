@@ -5,11 +5,11 @@ export var storyboard = (
   <Storyboard data-uid='0cd'>
     <View
       style={{
-        backgroundColor: '#00B7FF',
+        backgroundColor: '#0f9',
         position: 'absolute',
         left: -51,
         top: 72,
-        width: 269,
+        width: 268,
         height: 355,
       }}
       data-uid='48d'
