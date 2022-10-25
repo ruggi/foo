@@ -1,14 +1,11 @@
-import * as React from 'react'
-import { Scene, Storyboard } from 'utopia-api'
-import { App } from '/src/app.js'
-import { Playground } from '/src/playground.js'
+import { Storyboard } from 'utopia-api'
 import { View } from 'utopia-api'
 
 export var storyboard = (
   <Storyboard data-uid='0cd'>
     <View
       style={{
-        backgroundColor: '#0091FFAA',
+        backgroundColor: '#00B7FF',
         position: 'absolute',
         left: -51,
         top: 72,
