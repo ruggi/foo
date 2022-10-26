@@ -40,9 +40,9 @@ export var storyboard = (
         style={{
           backgroundColor: '#FF0000AB',
           position: 'absolute',
-          left: 53,
-          top: 65.5,
-          width: 71,
+          left: 0,
+          top: 0,
+          width: 84,
           height: 91,
         }}
         data-uid='750'
