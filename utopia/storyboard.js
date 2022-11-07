@@ -16,7 +16,7 @@ export var storyboard = (
     >
       <View
         style={{
-          backgroundColor: '#f09',
+          backgroundColor: '#df09',
           position: 'absolute',
           left: 50,
           top: 264,
