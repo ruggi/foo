@@ -1,7 +1,5 @@
 import * as React from 'react'
-import { Scene, Storyboard, RemixScene } from 'utopia-api'
-import { App } from '/src/app.js'
-import { Playground } from '/src/playground.js'
+import { Storyboard, RemixScene } from 'utopia-api'
 
 // hey there :D
 
