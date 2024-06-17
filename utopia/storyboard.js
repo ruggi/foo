@@ -40,21 +40,8 @@ export var storyboard = (
         }}
         data-uid='b4a'
       >
-        woah AMAZING SIMULTANEOUS
+        oh well
       </span>
     </div>
-    <span
-      style={{
-        position: 'absolute',
-        wordBreak: 'break-word',
-        left: 297,
-        top: 273,
-        width: 'max-content',
-        height: 'max-content',
-      }}
-      data-uid='91e'
-    >
-      ahahah
-    </span>
   </Storyboard>
 )
