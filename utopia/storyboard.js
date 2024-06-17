@@ -40,7 +40,7 @@ export var storyboard = (
         }}
         data-uid='b4a'
       >
-        woah
+        woah AMAZING
       </span>
     </div>
   </Storyboard>
