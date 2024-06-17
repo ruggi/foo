@@ -48,5 +48,18 @@ export var storyboard = (
         data-uid='750'
       />
     </View>
+    <span
+      style={{
+        position: 'absolute',
+        wordBreak: 'break-word',
+        left: 383,
+        top: 199,
+        width: 'max-content',
+        height: 'max-content',
+      }}
+      data-uid='ac3'
+    >
+      hello there
+    </span>
   </Storyboard>
 )
