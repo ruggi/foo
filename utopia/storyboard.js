@@ -43,5 +43,18 @@ export var storyboard = (
         woah AMAZING SIMULTANEOUS
       </span>
     </div>
+    <span
+      style={{
+        position: 'absolute',
+        wordBreak: 'break-word',
+        left: 297,
+        top: 273,
+        width: 'max-content',
+        height: 'max-content',
+      }}
+      data-uid='91e'
+    >
+      ahahah
+    </span>
   </Storyboard>
 )
